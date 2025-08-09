@@ -2,30 +2,30 @@
 
 
 # [Project Name] 🎯
-
+Silent sos
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [GoalGetters]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Beema] - [ICET]
+- Member 2: [Munna] - [ICET]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Silent SOS is a satirical emergency alert system that's completely useless. Features beautiful AI-powered interface with flashing lights & dashboards, but deliberately provides zero help. When activated, it proudly announces no emergency services will be contacted. A humorous parody of over-engineered tech.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[emergency alarm]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[why it have sound]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
