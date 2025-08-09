@@ -1,34 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Silent sos] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [GoalGetters]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Beema Navas] - [ICET]
+- Member 2: [Munna Salim] - [ICET]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Silent SOS is a satirical emergency alert system that's completely useless. Features beautiful AI-powered interface with flashing lights & dashboards, but deliberately provides zero help. When activated, it proudly announces no emergency services will be contacted. A humorous parody of over-engineered tech.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Emergency alarm]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[silent alarms that wont hear]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html]
+- [javascript]
+- [none]
+- [css3]
 
 For Hardware:
 - [List main components]
@@ -36,12 +36,10 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
-# Installation
-[commands]
+For Software:by using vanilla web technologies
 
 # Run
-[commands]
+[html]
 
 ### Project Documentation
 For Software:
